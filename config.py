@@ -7,7 +7,7 @@
 #6203838763:AAFKHxOaQilei4GnWtvyJ6NPXI03qwhuFI8
 ##```python
 # Your Telegram bot token.
-BOT_TOKEN = "6579087789:AAG4LAUNgbsyDwR6GrcL_rU9hsxRkPb2n18"
+BOT_TOKEN = "6630872009:AAH8nJDOO0p2bopyYtAssoOovVtVHZz6_DM"
 
 # Telegram API ID and Hash. This is NOT your bot token and shouldn't be changed.
 API_ID = 9641313
